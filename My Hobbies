@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>My Hobbies</title>
+  <body>
+  <h3><strong>My Hobbies</strong></h3>
+  <ol>
+    <li><a href="https://www.justinguitar.com/">Playing the guitar</a></li>
+    <li><a href="https://www.onlinecasinobluebook.com/education/tutorials/poker/">Learning Poker</a></li>
+    <li>Console and mobile gaming</li>
+    <li>Reading and writing</li></h3>
+    </ol>
+    </body>
+  </html>
